@@ -1,0 +1,27 @@
+header, footer, nav, aside, article, section {
+   border: solid 1px;
+   box-sizing:border-box;
+}
+img {
+   width: 300px;
+}
+body{width:1000px;}
+header{width:1000px;
+       float:left;}
+nav{float:left;
+    width:200px;
+    height:400px;
+}
+article{float:left;
+        width:400px;
+        height:400px;
+}
+aside{width:394px;
+      height:400px;
+      float:right;
+}
+footer{width:1000px;
+       float:left;
+    
+}
+       
